@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A company that optimizes social media presence. 
+A marketing company that specializes in increasing online visability, analyzing social media prescence, and control over online reputation.
 
 ## Built With
 * HTML
@@ -10,11 +10,9 @@ A company that optimizes social media presence.
 ## Website
 https://henelle.github.io/Horiseon/
 
-## Contribution
+## Contributions
 
-Made with ❤️ by Horiseon
-
-
-Edited by Hien Nguyen
+ |Creator        |Horiseon      |@Xandromus
+ |Collaborator   |Hien Nguyen   |@henelle
 
 ### ©️2019 Horiseon Social Solution Services, Inc.
