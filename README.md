@@ -10,9 +10,11 @@ A marketing company that specializes in increasing online visability, analyzing 
 ## Website
 https://henelle.github.io/Horiseon/
 
-## Contributions
+## Project Contributions and Collaborators
 
- |Creator        |Horiseon      |@Xandromus
- |Collaborator   |Hien Nguyen   |@henelle
+| Contribution  | Name | GitHub Handle  |
+| ------------- | ------------- | ------------- |
+| Creator  | Xander Rapstine  | @Xandromus  |
+| Collaborator  | Hien Nguyen  | @henelle  |
 
 ### ©️2019 Horiseon Social Solution Services, Inc.
